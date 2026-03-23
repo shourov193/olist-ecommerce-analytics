@@ -241,5 +241,5 @@ Missing values after cleaning: 0
 
 Built by Shaharier Shourov
 Microsoft Certified Data Analyst
-Upwork: [your upwork link]
-LinkedIn: linkedin.com/in/shaharier-shourov
+Upwork: https://www.upwork.com/freelancers/shourov
+LinkedIn: (https://www.linkedin.com/in/shaharier--shourov/)
